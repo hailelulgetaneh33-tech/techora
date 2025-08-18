@@ -12,7 +12,7 @@
     "terms_conditions_url": "https://sites.google.com/view/blogger-news-app-terms",
     "email_feedback_and_report": "youremail@gmail.com",
     "category_column_count": 3,
-    "show_page_menu": true,
+    "show_page_menu": false,
     "show_view_on_site_menu": true,
     "show_post_list_in_large_style": true,
     "show_post_list_header": true,
@@ -145,4 +145,5 @@
   }
 
 }
+
 
