@@ -79,7 +79,7 @@
     }
   },
   "custom_category": {
-    "status": false,
+    "status": true,
     "categories": [
       {
         "term": "Business",
@@ -145,5 +145,6 @@
   }
 
 }
+
 
 
