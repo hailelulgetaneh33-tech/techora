@@ -14,7 +14,7 @@
     "category_column_count": 3,
     "show_page_menu": true,
     "show_view_on_site_menu": true,
-    "show_post_list_in_large_style": false,
+    "show_post_list_in_large_style": true,
     "show_post_list_header": true,
     "show_post_list_short_description": true,
     "show_post_date": true,
@@ -28,7 +28,7 @@
     "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
-    "admob_publisher_id": "pub-3940256099942544",
+    "admob_publisher_id": "ca-app-pub-7103054640214521~9056651724",
     "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
     "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -145,3 +145,4 @@
   }
 
 }
+
