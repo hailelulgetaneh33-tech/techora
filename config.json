@@ -1,7 +1,7 @@
 {
   "blog": {
-    "blogger_id": "7190150558784798714",
-    "api_key": "AIzaSyDyqKt5LtiZPSvbwzqtYql0ymrVc9Nyr1c"
+    "blogger_id": "4764449747725520972",
+    "api_key": "AIzaSyBUF5DnbjcEGYehouuHiAKrF9B4nS5NYcU"
   },
   "app": {
     "status": true,
@@ -143,4 +143,5 @@
       }
     ]
   }
+
 }
