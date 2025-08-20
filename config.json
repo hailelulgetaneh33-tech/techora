@@ -22,7 +22,7 @@
     "open_link_inside_app": true,
     "enable_exit_dialog": false,
     "enable_rtl_mode": false,
-    "enable_dark_mode_as_default_theme": false
+    "enable_dark_mode_as_default_theme": true
   },
   "ads": {
     "ad_status": true,
@@ -145,6 +145,7 @@
   }
 
 }
+
 
 
 
