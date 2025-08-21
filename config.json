@@ -6,11 +6,11 @@
   "app": {
     "status": true,
     "redirect_url": "",
-    "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
-    "privacy_policy_url": "https://sites.google.com/view/blogger-news-app-privacy",
-    "publisher_info_url": "https://sites.google.com/view/blogger-news-app-publisher",
-    "terms_conditions_url": "https://sites.google.com/view/blogger-news-app-terms",
-    "email_feedback_and_report": "youremail@gmail.com",
+    "more_apps_url": "https://merejehub.blogspot.com/",
+    "privacy_policy_url": "https://merejehub.blogspot.com/p/privacy-policy.html",
+    "publisher_info_url": "https://merejehub.blogspot.com/p/publiser-info.html",
+    "terms_conditions_url": "https://merejehub.blogspot.com/p/terms-conditions.html",
+    "email_feedback_and_report": "hailelulgetaneh33@gmail.com",
     "category_column_count": 3,
     "show_page_menu": false,
     "show_view_on_site_menu": true,
@@ -145,6 +145,7 @@
   }
 
 }
+
 
 
 
